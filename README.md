@@ -74,13 +74,13 @@ The analysis produces visualizations that provide insights into the scraped data
 ### Bias Distribution per News Source
 This chart shows the count of articles classified with a specific political bias for each media outlet. It helps identify if certain news sources have a tendency to publish more pro-government, anti-government, or neutral content on the topic.
 
-![Bias Distribution Chart](https://i.ibb.co/6P74b7K/bias-distribution.png)
+![Bias Distribution Chart](https://github.com/Hacxmr/NLP_Project/blob/main/bias-distribution-chart.png)
 
 
 ### Sentiment Distribution per State
 This chart visualizes the overall sentiment (Positive, Negative, Neutral) of articles related to the Delhi and Bihar elections, allowing for a comparison of the narrative tone for each region.
 
-![Sentiment Distribution Chart](https://i.ibb.co/3cYfG2y/sentiment-distribution.png)
+![Sentiment Distribution Chart](https://github.com/Hacxmr/NLP_Project/blob/main/sentiment-distribution.png)
 
 
 ## Limitations and Future Work
